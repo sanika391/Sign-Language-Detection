@@ -29,7 +29,13 @@ The platform's applications include inclusive learning environments, accessible 
 The project involved collecting a diverse dataset of sign language gestures, annotating and labeling the dataset with corresponding meanings, preprocessing and extracting features, training machine learning models, evaluating performance metrics, conducting error analysis, and refining the models iteratively.
 
 ### Data Insights
-
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/sanika391/Sign-Language-Detection/assets/116996971/9f2351d0-17b6-46b5-ba5b-1a0aece770d5" style="width: 200px;"></td>
+    <td align="center"><img src="https://github.com/sanika391/Sign-Language-Detection/assets/116996971/e1492258-553a-4ab5-9c7b-d319a8540f19" alt="Image 2" style="width: 200px;"></td>
+    <td align="center"><img src="https://github.com/sanika391/Sign-Language-Detection/assets/116996971/3ce8ec64-f456-469c-b569-68310af249dd" alt="Image 3" style="width: 200px;"></td>
+  </tr>
+</table>
 
 
 
