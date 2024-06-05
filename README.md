@@ -33,3 +33,4 @@ The project involved collecting a diverse dataset of sign language gestures, ann
 
 
 
+
