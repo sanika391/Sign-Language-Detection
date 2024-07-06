@@ -37,6 +37,26 @@ The project involved collecting a diverse dataset of sign language gestures, ann
   </tr>
 </table>
 
+### Project Goals
+1. Develop a sign language recognition model:Utilize Python and OpenCV for image and video processing. Implement a CNN model using the pre-trained SSD MobileNet V2 architecture.
+
+2. Achieve high accuracy:Target recognition accuracy of 70-80% for various sign language gestures.
+
+3. Support diverse environments:Ensure the model works effectively in different lighting and background conditions.
+
+4. Facilitate communication:Help the deaf community by translating sign language into text or speech. Aid learners in practicing and improving their sign language skills.
+
+### Methodology
+1. Data Collection: Gather a diverse dataset of sign language gestures, ensuring variability in background, lighting, and hand positions.
+
+2. Data Preprocessing: Perform data augmentation techniques such as rotation, scaling, and flipping to increase the robustness of the model. Normalize the images for consistent input to the neural network.
+
+3. Model Architecture: Use the SSD MobileNet V2 architecture for object detection and feature extraction. Fine-tune the pre-trained model on the collected dataset to adapt it to sign language recognition.
+
+4.Training and Evaluation: Split the dataset into training, validation, and test sets (e.g., 70% training, 15% validation, 15% testing). Train the model using appropriate loss functions and optimizers. Evaluate the model's performance on the test set, aiming for 70 - 80% Accuracy.
+
+### Process Flow:
+![Screenshot 2024-07-06 232010](https://github.com/sanika391/Sign-Language-Detection/assets/116996971/d4f6539f-af12-4a5d-9fd5-61c16ebd230a)
 
 
 
